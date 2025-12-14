@@ -1,0 +1,5 @@
+{
+  "name": "GoEpic Task Parser & Context Engineer",
+  "description": "A specialized AI parser for GoEpic Console Web API tasks, featuring reinforcement learning-style context engineering, semantic intensity weighting, and structured Markdown output.",
+  "requestFramePermissions": []
+}
